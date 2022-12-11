@@ -84,5 +84,11 @@ Practice problems for mastering the basics of JavaScript
 23. React useReducer hook
 24. React custom hook
 25. Styling react components.
-26. React Styled Components 
-27. 
+26. React Styled Components
+27. React Router DOM
+28. [Project] Quiz Application with Firebase
+29. React Router DOM 6 - Breaking Changes React Router 6 vs 5
+30. React ROuter v6 Private Route
+31. React 18 new features
+32. 4 ways to fetch data from API in React
+33. Why learn react and ten obostables of React Developer.
